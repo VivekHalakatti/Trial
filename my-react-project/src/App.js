@@ -6,6 +6,7 @@ function App() {
     <div className="App">
      <h1></h1>
      <p>nani monoda</p>
+     <h3>lenord</h3>
     </div>
   );
 }
